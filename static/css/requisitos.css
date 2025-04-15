@@ -15,7 +15,7 @@ header {
 }
 
 section {
-    max-width: 800px;
+    max-width: 900px;
     margin: 2em auto;
     padding: 2em;
     background-color: #fff;
@@ -54,6 +54,7 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin: 5px;
 }
 
 table {
